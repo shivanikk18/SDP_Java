@@ -1,1 +1,1 @@
-# Infosys_Java_DSA
+# Infyspringboard Java DSA
